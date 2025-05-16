@@ -13,18 +13,34 @@ a{
     color: black;
 }
 
+/*estilo do texto de todas as páginas*/
+h1{
+    font-size: 40px;
+    text-align: justify;
+    color: #000000;
+    text-indent: 2em;
+    padding: 10px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    color: #000000;
+    text-indent: 2em;
+    margin: 24px;
+}
+
 /* Esttilo para as barras de habilidades */
 .cabeçalho{
-    background-color: #ffffff;
+    background: linear-gradient(to right, #106813, #8bc34a);
     padding: 2px;
-    margin: 12px;
-    margin: none;
+    margin: 15px;;
     border-radius: 35px;
-    box-shadow: 0 15px 20px #00000049
+    box-shadow: 0 15px 20px #00000049;
 }
 
 body{
-    background-color: #e1e1e190;
+    background-color: #c5c4c490;
     font-family: Arial, sans-serif;
 }
 
